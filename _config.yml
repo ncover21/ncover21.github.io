@@ -1,0 +1,34 @@
+title: Noah Cover
+author: ncover21
+subtitle: personal blog by noah cover
+
+url: "https://www.noahcover.com"
+baseurl: ""
+
+github_link: "https://github.com/ncover21"
+linkedin_link: "https://www.linkedin.com/in/noah-cover-214946160/"
+facebook_link: "https://www.facebook.com/noah.cover.3"
+email_link: "mailto:ncover@ucsc.com"
+
+footer_url: "https://github.com/ncover21"
+footer_text: "github"
+
+profile-picture: assets/profile.jpg
+favicon_location: assets/favicon.ico
+github_location: assets/github.png
+linkedin_location: assets/linkedin.png
+facebook_location: assets/fb.png
+email_location: assets/email.png
+
+permalink: /:month-:day-:year-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "Blog"
+   link: "blog"
+ - name: "About"
+   link: ""
+ - name: "Resume"
+   link: "resume.pdf"

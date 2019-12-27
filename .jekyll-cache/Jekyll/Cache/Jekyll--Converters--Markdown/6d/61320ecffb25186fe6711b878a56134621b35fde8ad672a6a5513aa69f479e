@@ -1,0 +1,63 @@
+I"�<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="/assets/profile.jpg" /></p>
+
+<p>Hi, I am a student from the San Francisco Bay Area. Currently, I am attending University of California, Santa Cruz pursuing a degree in Computer Science.</p>
+
+<h3 id="relevant-coursework">Relevant Coursework</h3>
+
+<p>Java, Computer Systems and C programing, Data Structures, Multivariable Calculus, Linear Algebra, Compiler Design, Natural Language Processing, Operation Systems, Computer Architecture, Cryptography.</p>
+
+<h3 id="technical-skills">Technical Skills</h3>
+<ul>
+  <li>Languages: Python, Java, C++, Javascript, HTML, CSS, Excel, Unix</li>
+  <li>Technologies: Docker, AWS, Git, Salesforce, SQL, Redis, Nginx</li>
+  <li>Frameworks: React JS, Flask</li>
+</ul>
+
+<h2 id="work-experience">Work Experience</h2>
+
+<h3 id="sumo-logic-inc">Sumo Logic, Inc.</h3>
+<p>Business Intelligence Intern	(June 2018 – Sept-2019)</p>
+<ul>
+  <li>Responsible for designing and building an in-house CRM solution. Developed cross-referenceable customer database leveraging Salesforce, AWS and SQL with an integrated
+web application for configuration and visualization of customer data.</li>
+  <li>Technologies utilized: AWS Lambda, AWS Redshift, AWS EC2, Python, Docker, React JS, Redis</li>
+</ul>
+
+<h3 id="proquest">ProQuest</h3>
+<p>Data Migration Intern (June 2017 – Sept 2017)</p>
+<ul>
+  <li>Responsible for customer data migration of over 5000 customers. Worked with a team of 3 interns to migrate over 120,000 data files from the company’s existing data platform their latest site. Built file editing application that automated the metadata updates required for the migration to new platform while maintaining the old format and site preserving their clients access to their data throughout the transition period</li>
+</ul>
+
+<h2 id="university-computer-science-projects">University Computer Science Projects</h2>
+
+<h3 id="machine-learning-based-question-answering-software">Machine Learning Based Question Answering Software</h3>
+<ul>
+  <li>Created a program to process a large corpus of text data and then answer user-inputed questions about the given text.</li>
+  <li>Our team was able to answer questions by using the semantic information of the text in combination with constituency parsers, regular expression and using the NLTK Wordnet API.</li>
+  <li>Technologies utilized: Python, nltk, numpy, scikitlearn</li>
+</ul>
+
+<h3 id="compiler">Compiler</h3>
+<ul>
+  <li>Wrote a compiler for a C based programming language using C++</li>
+  <li>The compiler had 5 different modules which created a string set of the program to compiler, tokenizer, abstract syntax tree, symbol table, and then using this preprocessed data it was able to compiler into an intermediate language.</li>
+  <li>Technologies utilized: flex and bison.</li>
+</ul>
+
+<h3 id="cruz-hacks-2017--uc-sponsored-hackathon">Cruz Hacks 2017 – UC Sponsored Hackathon</h3>
+
+<h2 id="activities-and-personal-interests">Activities and Personal Interests</h2>
+<ul>
+  <li>Hiking/backpacking: Mt. Whitney &amp; High Sierras</li>
+  <li>Avid runner</li>
+  <li>Skiing</li>
+  <li>Cooking</li>
+  <li>Baseball</li>
+  <li>Powerlifting</li>
+  <li>Music</li>
+</ul>
+
+:ET
